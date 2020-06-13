@@ -1,3 +1,5 @@
+# Script to create the "Candidates" and "Vote Share" tables
+
 from google.cloud import bigquery
 
 # Construct a BigQuery client object.
